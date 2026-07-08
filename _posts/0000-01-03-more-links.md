@@ -5,9 +5,9 @@ title: "More Link Examples"
 
 Try adding different types of links:
 
-[External Website](https://www.example.com)
+[External Website](https://a.co/d/0aMvtW7h)
 
-[Email Link](mailto:your-email@example.com)
+[Email Link](mailto:aotmails@gmail.com)
 
 [Link with Title Text](https://github.com "GitHub Homepage")
 
